@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theories and Tips/Learn Any Skill So Fast It Feels Illegal.md",
+                "file": "Learning/n8n/1. Intro to automation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Learn Any Skill So Fast It Feels Illegal"
+              "title": "1. Intro to automation"
             }
           }
         ]
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theories and Tips/Learn Any Skill So Fast It Feels Illegal.md",
+                "file": "Learning/n8n/1. Intro to automation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Learn Any Skill So Fast It Feels Illegal"
+              "title": "Outline of 1. Intro to automation"
             }
           },
           {
@@ -227,12 +227,12 @@
   },
   "active": "da973d26ec343d51",
   "lastOpenFiles": [
-    "Learning/n8n/4.Handling data.md",
+    "Learning/n8n/0. Index for n8n.md",
     "Theories and Tips/Learn Any Skill So Fast It Feels Illegal.md",
+    "Learning/n8n/4.Handling data.md",
     "Theories and Tips",
     "API/API Status Codes.md",
     "Learning/n8n/3. Nodes.md",
-    "Learning/n8n/0. Index for n8n.md",
     "Learning/n8n/2. API and Webhooks.md",
     "Learning/n8n/1. Intro to automation.md",
     "Learning/Jmeter/1-introduction.md",
