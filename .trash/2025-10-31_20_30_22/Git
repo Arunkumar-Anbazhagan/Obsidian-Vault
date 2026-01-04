@@ -1,0 +1,11 @@
+# Setting up a username:
+You need to set who you are *before* creating any commit.  That will allow commits to have the right author name and email associated to them.
+It has nothing to do with authentication when pushing to a remote repository (e.g. when pushing to a remote repository using your GitHub, BitBucket, or GitLab account)
+
+git config user.name username -- this will set ur username 
+git config user.email mail_at_work@example.com - this will set your email 
+   -------------------------------------
+Remove a global identity 
+git config --global --remove-section user.name 
+git config --global --remove-section user.email
+
