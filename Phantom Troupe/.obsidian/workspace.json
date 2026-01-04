@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theories and Tips/Learn Any Skill So Fast It Feels Illegal.md",
+                "file": "Theories and Tips/Skillsets/Learn Any Skill So Fast It Feels Illegal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -24,7 +24,7 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theories and Tips/Learn Any Skill So Fast It Feels Illegal.md",
+                "file": "Learning/n8n/Workflow concepts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Learn Any Skill So Fast It Feels Illegal"
+              "title": "Outline of Workflow concepts"
             }
           },
           {
@@ -220,15 +220,22 @@
       "obsidian-git:Open Git source control": false,
       "structured-tree:Open Structured Tree": false,
       "obsidian-importer:Open Importer": false,
-      "github-sync:Sync with Remote": false,
-      "templater-obsidian:Templater": false
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "509e46d93ef06bc7",
+  "active": "da973d26ec343d51",
   "lastOpenFiles": [
-    "Learning/n8n/1. Intro to automation.md",
+    "Theories and Tips/Skillsets/learn coding.md",
+    "Theories and Tips/Skillsets/Learning programming language.md",
+    "Learning/Dart/Introduction to dart.md",
+    "Learning/Dart/Index of Dart.md",
+    "Theories and Tips/Skillsets/Learn Any Skill So Fast It Feels Illegal.md",
+    "Learning/Dart",
+    "Learning/Untitled.md",
+    "Learning/n8n/Workflow concepts.md",
+    "Theories and Tips/Skillsets",
     "Learning/n8n/0. Index for n8n.md",
-    "Theories and Tips/Learn Any Skill So Fast It Feels Illegal.md",
+    "Learning/n8n/1. Intro to automation.md",
     "Learning/n8n/4.Handling data.md",
     "Theories and Tips",
     "API/API Status Codes.md",
@@ -251,25 +258,17 @@
     "Learning/Jmeter/32-distributed-load-test.md",
     "API/API/Course Video.md",
     "Learning/Jmeter/7-listeners.md",
-    "Learning/Jmeter/3-jmeter-gui.md",
     "Learning/Jmeter/files/n8nio.jpg",
     "Learning/Jmeter/files/n8n-logo.png",
     "Learning/Jmeter/files/n8n-1.png",
     "Learning/Jmeter/files/n8n.png",
     "Learning/Jmeter/files/jmeter_square.png",
     "Learning/Jmeter/files/image.png",
-    "API/API/7. ✅ First API Tests (Assertions).md",
     "Learning/Jmeter/schemas/page.schema.json",
     "Learning/Jmeter/schemas/note.schema.json",
-    "Learning/Jmeter/untitled_y.md",
-    "Learning/Jmeter/untitled_j.md",
-    "Learning/Jmeter/untitled.md",
     "Learning/Jmeter/schemas",
     "Learning/Jmeter/files",
-    "Learning/Jmeter/9-timers.md",
     "Learning/Jmeter",
-    "Learning/Anytype.20251231.021818.61/schemas/page.schema.json",
-    "Learning/Anytype.20251231.021818.61/schemas/note.schema.json",
     "Learning/Anytype.20251231.021818.61/files/n8nio.jpg",
     "Learning/Anytype.20251231.021818.61/files/n8n.png",
     "Learning/Anytype.20251231.021818.61/files/n8n-logo.png",
