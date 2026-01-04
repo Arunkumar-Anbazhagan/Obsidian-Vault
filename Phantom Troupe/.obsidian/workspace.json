@@ -202,12 +202,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,7 +224,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da973d26ec343d51",
+  "active": "509e46d93ef06bc7",
   "lastOpenFiles": [
     "Learning/n8n/1. Intro to automation.md",
     "Learning/n8n/0. Index for n8n.md",
