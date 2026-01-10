@@ -1,9 +1,4 @@
 [
   "obsidian-git",
-  "obsidian-enhancing-export",
-  "structured-tree",
-  "obsidian-importer",
-  "github-sync",
-  "dataview",
-  "calendar"
+  "github-sync"
 ]

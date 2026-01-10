@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theories and Tips/Skillsets/Learn Any Skill So Fast It Feels Illegal.md",
+                "file": "Learning/Dart/6. practise.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -24,11 +24,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Learn Any Skill So Fast It Feels Illegal"
+              "title": "6. practise"
             }
           }
         ]
@@ -82,16 +82,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "bfde8a6824ee6a93",
-            "type": "leaf",
-            "state": {
-              "type": "structured-tree-view",
-              "state": {},
-              "icon": "structured-activity-bar",
-              "title": "Structured Tree"
             }
           }
         ]
@@ -190,16 +180,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "0d4dbf7eab6b3235",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
         ],
         "currentTab": 5
@@ -225,11 +205,18 @@
   },
   "active": "da973d26ec343d51",
   "lastOpenFiles": [
+    "Learning/Dart/5. Functions and parameters.md",
+    "Learning/Dart/6. practise.md",
+    "Learning/Dart/0. Index of Dart.md",
+    "Learning/Dart/3. Dart fundamentals.md",
+    "Learning/Dart/4.Advanced var management.md",
+    "Learning/Dart/4. Type Inference.md",
+    "Learning/Dart/1. Introduction to dart.md",
+    "Learning/Dart/2. Dart Lecture 1 – Basic Program Structure, `main()`, and Variables.md",
+    "Learning/Dart/1.1 Learning plan.md",
+    "Theories and Tips/Skillsets/Learn Any Skill So Fast It Feels Illegal.md",
     "Theories and Tips/Skillsets/learn coding.md",
     "Theories and Tips/Skillsets/Learning programming language.md",
-    "Learning/Dart/Introduction to dart.md",
-    "Learning/Dart/Index of Dart.md",
-    "Theories and Tips/Skillsets/Learn Any Skill So Fast It Feels Illegal.md",
     "Learning/Dart",
     "Learning/Untitled.md",
     "Learning/n8n/Workflow concepts.md",
@@ -251,13 +238,6 @@
     "Learning/Jmeter/index.md",
     "Learning/Jmeter/2-installation-and-setup.md",
     "Learning/Jmeter/try-more-with-anytype.md",
-    "Learning/Jmeter/llm-source.md",
-    "Learning/Jmeter/jmeter-index.md",
-    "Learning/Jmeter/jmeter.md",
-    "Learning/Jmeter/4-test-plan-elements.md",
-    "Learning/Jmeter/32-distributed-load-test.md",
-    "API/API/Course Video.md",
-    "Learning/Jmeter/7-listeners.md",
     "Learning/Jmeter/files/n8nio.jpg",
     "Learning/Jmeter/files/n8n-logo.png",
     "Learning/Jmeter/files/n8n-1.png",
