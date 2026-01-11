@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Dart/6. practise.md",
+                "file": "Learning/Dart/0. Index of Dart.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6. practise"
+              "title": "0. Index of Dart"
             }
           }
         ]
@@ -198,20 +198,21 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "structured-tree:Open Structured Tree": false,
-      "obsidian-importer:Open Importer": false,
       "github-sync:Sync with Remote": false
     }
   },
   "active": "da973d26ec343d51",
   "lastOpenFiles": [
+    "Learning/Dart/9. Loop.md",
+    "Learning/Dart/8. List.md",
+    "Learning/Dart/0. Index of Dart.md",
+    "Learning/Dart/7. getInputFrom User.md",
+    "Learning/Dart/6. practise.md",
     "Words/Immortals of Melua.md",
     "Words",
     "Theories and Tips/Corporate ideas/Corporate Basics.md",
     "Theories and Tips/Corporate ideas",
     "Learning/Dart/5. Functions and parameters.md",
-    "Learning/Dart/6. practise.md",
-    "Learning/Dart/0. Index of Dart.md",
     "Learning/Dart/3. Dart fundamentals.md",
     "Learning/Dart/4.Advanced var management.md",
     "Learning/Dart/4. Type Inference.md",
@@ -236,10 +237,7 @@
     "Untitled.canvas",
     "{057E3007-995E-4720-891D-2F093EAA8C27}.png",
     "Untitled.base",
-    "Learning/Jmeter/33. bashshell-and-jsr223.md",
     "Learning/n8n",
-    "Learning/Jmeter/34. flow-diagram.md",
-    "Learning/Jmeter/index.md",
     "Learning/Jmeter/files/n8nio.jpg",
     "Learning/Jmeter/files/n8n-logo.png",
     "Learning/Jmeter/files/n8n-1.png",
