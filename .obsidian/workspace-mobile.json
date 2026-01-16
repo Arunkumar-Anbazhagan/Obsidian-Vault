@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phantom Troupe/Books/Shiva Triology.md",
+                "file": "Phantom Troupe/Books/Indes of Books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shiva Triology"
+              "title": "Indes of Books"
             },
             "group": "095e7054b164feac"
           }
@@ -216,10 +216,13 @@
   },
   "active": "0db5c97784562d2d",
   "lastOpenFiles": [
-    "Phantom Troupe/Words/Immortals of Melua.md",
     "Phantom Troupe/Books/Shiva Triology.md",
-    "Phantom Troupe/Books",
+    "Phantom Troupe/Books/Indes of Books.md",
+    "Phantom Troupe/Books/2. Twisted Series.md",
+    "Phantom Troupe/Learning/Trading/0. Basics.md",
     "Phantom Troupe/Learning/Trading/trading.md",
+    "Phantom Troupe/Words/Immortals of Melua.md",
+    "Phantom Troupe/Books",
     "Phantom Troupe/Learning/Trading",
     "Phantom Troupe/Learning/Dart/9.1 How and where to use loops.md",
     "/Phantom Troupe/Learning/Dart/9.1 How and where to use loops.md",
@@ -244,9 +247,6 @@
     "/Phantom Troupe/Learning/Dart/5. Functions and parameters.md",
     "/Phantom Troupe/Learning/Dart/4.Advanced var management.md",
     "/Phantom Troupe/Learning/Dart/3. Dart fundamentals.md",
-    "Phantom Troupe/Learning/Dart/2. Dart Lecture 1 – Basic Program Structure, `main()`, and Variables.md",
-    "/Phantom Troupe/Learning/Dart/1.1 Learning plan.md",
-    "/Phantom Troupe/Learning/Dart/1. Introduction to dart.md",
     "Phantom Troupe/Words",
     "Phantom Troupe/Theories and Tips/Corporate ideas",
     "/Phantom Troupe/Learning/n8n",
