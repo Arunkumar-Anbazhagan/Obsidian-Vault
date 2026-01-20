@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "3678665d7a4eab3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c22eb03c1b56e61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d138dbb9f069822c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phantom Troupe/Learning/Dart/10. Built in dataTypes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Built in dataTypes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c9266136bff77fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "861115e2f0429e8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "665393b7b5171259",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b2398a1fdf1a2ed9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "48e7647023323a6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9edf168698e93118",
+    "type": "split",
+    "children": [
+      {
+        "id": "3363b1d130c44ab9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5f78a1c53dce553",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Freecode camp Articles/Videos Summaries/Dart course.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dart course"
+            }
+          },
+          {
+            "id": "32acd76f2b5a173f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Freecode camp Articles/Videos Summaries/Dart course.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Dart course"
+            }
+          },
+          {
+            "id": "73f58d56530d2568",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f2b99d0fcf822d5e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c1bd2b9852101738",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Freecode camp Articles/Videos Summaries/Dart course.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dart course"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d138dbb9f069822c",
+  "lastOpenFiles": [
+    "Freecode camp Articles/Videos Summaries/Dart course.md",
+    "Phantom Troupe/Learning/Dart/10. Built in dataTypes.md",
+    "Freecode camp Articles/Untitled.md",
+    "Freecode camp Articles/Videos Summaries"
+  ]
+}

@@ -1,2 +1,0 @@
-1. [[Shiva Triology]]
-2. [[2. Twisted Series]]
