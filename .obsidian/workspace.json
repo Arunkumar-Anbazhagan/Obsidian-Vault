@@ -184,11 +184,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d138dbb9f069822c",
+  "active": "665393b7b5171259",
   "lastOpenFiles": [
-    "Freecode camp Articles/Videos Summaries/Dart course.md",
+    "h origin master --force",
+    "templates",
+    "New folder/Lokus/uninstall.exe",
+    "New folder/Lokus/mcp-bundle/package.json",
+    "New folder/Lokus/mcp-bundle/mcp-server.js",
+    "New folder/Lokus/mcp-bundle/index.js",
+    "New folder/Lokus/_up_/src/themes/one-dark-pro.json",
+    "New folder/Lokus/_up_/src/themes/tokyo-night.json",
+    "New folder/Lokus/_up_/src/themes/solarized-light.json",
+    "New folder/Lokus/_up_/src/themes/nord.json",
+    "New folder/Lokus/_up_/src/themes/monokai.json",
+    "{01A8838C-9A89-41EF-A4A7-705B197FFC8A}.png",
     "Phantom Troupe/Learning/Dart/10. Built in dataTypes.md",
-    "Freecode camp Articles/Untitled.md",
-    "Freecode camp Articles/Videos Summaries"
+    "Freecode camp Articles/Videos Summaries/Dart course.md",
+    "Freecode camp Articles/Untitled.md"
   ]
 }

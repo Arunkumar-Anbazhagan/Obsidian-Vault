@@ -1,0 +1,31 @@
+{
+  "bases": {
+    "All Notes": {
+      "columnWidths": {},
+      "columnOrder": [
+        "name"
+      ],
+      "pinnedColumns": {
+        "name": true
+      },
+      "enabledColumns": {
+        "name": true,
+        "title": false,
+        "created": false,
+        "modified": false,
+        "size": false,
+        "path": false,
+        "extension": false,
+        "tags": false,
+        "links": false,
+        "embeds": false,
+        "aliases": false
+      },
+      "sortRules": [],
+      "filterRules": [],
+      "filterLogicOperator": "AND"
+    }
+  },
+  "version": "1.0.0",
+  "lastUpdated": "2026-02-14T11:39:11.836Z"
+}

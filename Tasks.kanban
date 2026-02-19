@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "name": "Tasks",
+  "columns": {
+    "in-progress": {
+      "name": "In Progress",
+      "order": 1,
+      "cards": []
+    },
+    "done": {
+      "name": "Done",
+      "order": 2,
+      "cards": []
+    },
+    "to-do": {
+      "name": "To Do",
+      "order": 0,
+      "cards": []
+    }
+  },
+  "settings": {
+    "card_template": {},
+    "automations": [],
+    "custom_fields": []
+  },
+  "metadata": {
+    "created": "2026-02-03T13:55:10.111583100+00:00",
+    "modified": "2026-02-03T13:55:10.111583100+00:00",
+    "created_with": "Lokus"
+  }
+}
