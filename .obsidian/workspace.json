@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phantom Troupe/Learning/Dart/10. Built in dataTypes.md",
+                "file": "Phantom Troupe/Learning/Jmeter/34. flow-diagram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Built in dataTypes"
+              "title": "34. flow-diagram"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Freecode camp Articles/Videos Summaries/Dart course.md",
+                "file": "Phantom Troupe/Learning/Jmeter/34. flow-diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dart course"
+              "title": "Backlinks for 34. flow-diagram"
             }
           },
           {
@@ -169,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,25 +180,48 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "665393b7b5171259",
   "lastOpenFiles": [
+    "Phantom Troupe/Learning/Jmeter/25-troubleshooting-common-issues.md",
+    "Phantom Troupe/Learning/Jmeter/4-test-plan-elements.md",
+    "Phantom Troupe/Learning/Jmeter/3-jmeter-gui.md",
+    "Phantom Troupe/Learning/Jmeter/2-installation-and-setup.md",
+    "Phantom Troupe/Learning/Jmeter/1-introduction.md",
+    "Phantom Troupe/Learning/RestAssured/1. Introduction.md",
+    "Phantom Troupe/Learning/RestAssured/Index of RestAssured.md",
+    "PlayWright/strict mode violation.md",
+    "Phantom Troupe/Learning/RestAssured",
+    "Phantom Troupe/Learning/GraphQl/Introduction of GraphQl.md",
+    "Phantom Troupe/Learning/GraphQl",
+    "PlayWright/4. Assertions.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "PlayWright/Devoloper Focused Locators.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "{01A8838C-9A89-41EF-A4A7-705B197FFC8A}.png",
     "h origin master --force",
     "templates",
     "New folder/Lokus/uninstall.exe",
     "New folder/Lokus/mcp-bundle/package.json",
     "New folder/Lokus/mcp-bundle/mcp-server.js",
-    "New folder/Lokus/mcp-bundle/index.js",
-    "New folder/Lokus/_up_/src/themes/one-dark-pro.json",
-    "New folder/Lokus/_up_/src/themes/tokyo-night.json",
-    "New folder/Lokus/_up_/src/themes/solarized-light.json",
-    "New folder/Lokus/_up_/src/themes/nord.json",
-    "New folder/Lokus/_up_/src/themes/monokai.json",
-    "{01A8838C-9A89-41EF-A4A7-705B197FFC8A}.png",
-    "Phantom Troupe/Learning/Dart/10. Built in dataTypes.md",
-    "Freecode camp Articles/Videos Summaries/Dart course.md",
-    "Freecode camp Articles/Untitled.md"
+    "New folder/Lokus/mcp-bundle/index.js"
   ]
 }
