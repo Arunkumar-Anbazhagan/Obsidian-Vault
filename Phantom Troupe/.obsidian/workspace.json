@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/1. Shiva Triology.md",
+                "file": "Books/2. Twisted Series.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1. Shiva Triology"
+              "title": "2. Twisted Series"
             }
           }
         ],
@@ -228,9 +228,12 @@
   },
   "active": "d9e14a698a426c5b",
   "lastOpenFiles": [
+    "Learning/Dart/4.Advanced var management.md",
+    "Learning/Dart/1. Introduction to dart.md",
+    "Learning/Dart/0. Index of Dart.md",
+    "Books/1. Shiva Triology.md",
     "Learning/Dart/Untitled.md",
     "Learning/Dart/9.1 How and where to use loops.md",
-    "Books/1. Shiva Triology.md",
     "Books/0. Indes of Books.md",
     "Learning/Trading/trading.md",
     "Learning/Trading/0. Basics.md",
@@ -238,7 +241,6 @@
     "Books/2. Twisted Series.md",
     "Books",
     "Learning/Dart/9. Loop.md",
-    "Learning/Dart/0. Index of Dart.md",
     "Learning/Dart/6. practise.md",
     "6.practise.md",
     "Learning/Dart/8. List.md",
@@ -249,9 +251,7 @@
     "Theories and Tips/Corporate ideas",
     "Learning/Dart/5. Functions and parameters.md",
     "Learning/Dart/3. Dart fundamentals.md",
-    "Learning/Dart/4.Advanced var management.md",
     "Learning/Dart/4. Type Inference.md",
-    "Learning/Dart/1. Introduction to dart.md",
     "Learning/Dart/2. Dart Lecture 1 – Basic Program Structure, `main()`, and Variables.md",
     "Learning/Dart/1.1 Learning plan.md",
     "Theories and Tips/Skillsets/Learn Any Skill So Fast It Feels Illegal.md",
